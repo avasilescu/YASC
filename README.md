@@ -25,12 +25,8 @@ Example using [crontab](http://unixhelp.ed.ac.uk/CGI/man-cgi?crontab+5) for a fl
 - wsgiref
 
 ### Installation Instructions
-1. Install PIP for Python 2.7
-'sudo apt-get install python-pip'
-2. Install Requests
-'pip install requests'
-3. Install BeautifulSoup
-'pip install beautifulsoup4'
-4. Install wsgiref
-'pip install wsgiref'
+1. Install PIP for Python 2.7 - `sudo apt-get install python-pip`
+2. Install Requests - `pip install requests`
+3. Install BeautifulSoup - `pip install beautifulsoup4`
+4. Install wsgiref - `pip install wsgiref`
 
